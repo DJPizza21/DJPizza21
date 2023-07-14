@@ -2,7 +2,7 @@
 
 Me chamo João Antonio
 
-- Atualmente estou estudando JS, CSS e HTML5
+- Atualmente estou estudando JS, CSS e HTML5 e React
 - Programdor iniciante
 - Segue o link de alguns projetos compartilhados
 
